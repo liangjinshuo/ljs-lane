@@ -1,0 +1,17 @@
+{
+  "apiName": "dgit_module",
+  "label": {
+    "zh_CN": "dgit_module",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "dgit module 组件描述",
+    "en_US": "dgit module component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
