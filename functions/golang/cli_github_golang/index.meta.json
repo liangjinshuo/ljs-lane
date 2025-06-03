@@ -1,0 +1,16 @@
+{
+  "apiID": "package_956cbd__c__function_aadih2sbloedw",
+  "apiName": "cli_github_golang",
+  "label": {
+    "zh_CN": "cli github golang",
+    "en_US": "cli github golang"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
