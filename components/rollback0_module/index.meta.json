@@ -1,0 +1,17 @@
+{
+  "apiName": "rollback0_module",
+  "label": {
+    "zh_CN": "rollback0_module",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "rollback 0 module 组件描述",
+    "en_US": "rollback 0 module component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
